@@ -1,2 +1,3 @@
-# calculo-Imposto
-Calculo de Imposto utilizando Java
+# Calculo de Imposto :computer:
+
+Sistema desenvolvido utilizando a linguagem JAVA para cálcular o valor de um determinado imposto de acordo com a faixa salarial de uma pessoa.
